@@ -1,0 +1,16 @@
+# Project Notes
+
+- This project was developed as a university group assignment.
+- The primary objective is to demonstrate basic web development concepts rather than building a production-level system.
+- The application runs on a local server environment (XAMPP/WAMP).
+- Database functionality is implemented using MySQL and phpMyAdmin.
+- The provided SQL file contains initial sample data for testing purposes.
+- Any changes made directly to the SQL file will not affect the application unless the database is re-imported.
+- The project focuses on clarity, simplicity, and learning outcomes.
+- All features were implemented collaboratively by the project team.
+
+---
+
+## Important
+- Database credentials may need to be configured depending on the local environment.
+- The application is intended for educational use only.
