@@ -35,4 +35,4 @@ The main goal of this project is to practice web development fundamentals such a
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/bravestation-fitness.git
+   git clone https://github.com/doganayhan/bravestation-fitness.git
